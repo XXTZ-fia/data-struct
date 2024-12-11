@@ -1,0 +1,150 @@
+Adding 2 to root.
+!Adding 4 to right sub-tree of 2
+ Adding 1 to left sub-tree of 2
+!Adding 5 to right sub-tree of 2
+!Adding 5 to right sub-tree of 4
+!Adding 3 to right sub-tree of 2
+ Adding 3 to left sub-tree of 4
+----- In Order -----
+)Inorder traversal: "1" "2" "3" "4" "5" 
+----- Pre Order -----
+*Preorder traversal: "2" "1" "4" "3" "5" 
+----- Post Order -----
++Postorder traversal: "1" "3" "5" "4" "2" 
+
+Adding hotel to root.
+)Adding tango to right sub-tree of hotel
+&Preorder traversal: "hotel" "tango" 
+
+Adding hotel to root.
+*Adding foxtrot to left sub-tree of hotel
+
+Adding hotel to root.
+*Adding foxtrot to left sub-tree of hotel
+)Adding tango to right sub-tree of hotel
+(Adding delta to left sub-tree of hotel
+*Adding delta to left sub-tree of foxtrot
+'Adding golf to left sub-tree of hotel
+*Adding golf to right sub-tree of foxtrot
+(Adding lema to right sub-tree of hotel
+'Adding lema to left sub-tree of tango
+(Adding xray to right sub-tree of hotel
+(Adding xray to right sub-tree of tango
+
+Adding hotel to root.
+
+Adding hotel to root.
+*Adding foxtrot to left sub-tree of hotel
+(Preorder traversal: "hotel" "foxtrot" 
+
+	Adding hotel to root.
+	*Adding foxtrot to left sub-tree of hotel
+	)Adding tango to right sub-tree of hotel
+	(Adding delta to left sub-tree of hotel
+	*Adding delta to left sub-tree of foxtrot
+	'Adding golf to left sub-tree of hotel
+	*Adding golf to right sub-tree of foxtrot
+	(Adding lema to right sub-tree of hotel
+	'Adding lema to left sub-tree of tango
+	(Adding xray to right sub-tree of hotel
+	(Adding xray to right sub-tree of tango
+	MPreorder traversal: "hotel" "foxtrot" "delta" "golf" "tango" "lema" "xray" 
+	
+
+Adding hotel to root.
+
+Preorder traversal: "hotel" 
+
+
+Adding hotel to root.
+*Adding foxtrot to left sub-tree of hotel
+'Inorder traversal: "foxtrot" "hotel" 
+
+Adding hotel to root.
+*Adding foxtrot to left sub-tree of hotel
+)Adding tango to right sub-tree of hotel
+(Adding delta to left sub-tree of hotel
+*Adding delta to left sub-tree of foxtrot
+'Adding golf to left sub-tree of hotel
+*Adding golf to right sub-tree of foxtrot
+(Adding lema to right sub-tree of hotel
+'Adding lema to left sub-tree of tango
+(Adding xray to right sub-tree of hotel
+(Adding xray to right sub-tree of tango
+LInorder traversal: "delta" "foxtrot" "golf" "hotel" "lema" "tango" "xray" 
+
+Adding hotel to root.
+Inorder traversal: "hotel" 
+
+Adding hotel to root.
+)Adding tango to right sub-tree of hotel
+
+Adding hotel to root.
+)Adding tango to right sub-tree of hotel
+'Postorder traversal: "tango" "hotel" 
+
+Adding hotel to root.
+)Adding tango to right sub-tree of hotel
+%Inorder traversal: "hotel" "tango" 
+
+Adding hotel to root.
+*Adding foxtrot to left sub-tree of hotel
+)Postorder traversal: "foxtrot" "hotel" 
+
+Adding hotel to root.
+*Adding foxtrot to left sub-tree of hotel
+)Adding tango to right sub-tree of hotel
+(Adding delta to left sub-tree of hotel
+*Adding delta to left sub-tree of foxtrot
+'Adding golf to left sub-tree of hotel
+*Adding golf to right sub-tree of foxtrot
+(Adding lema to right sub-tree of hotel
+'Adding lema to left sub-tree of tango
+(Adding xray to right sub-tree of hotel
+(Adding xray to right sub-tree of tango
+NPostorder traversal: "delta" "golf" "foxtrot" "lema" "xray" "tango" "hotel" 
+
+Adding hotel to root.
+Postorder traversal: "hotel" 
+
+BInput: -...	Expected: b	 Found: Yipes! Can't decode Morse string!
+BInput: -.-.	Expected: c	 Found: Yipes! Can't decode Morse string!
+BInput: -...	Expected: b	 Found: Yipes! Can't decode Morse string!
+BInput: -.-.	Expected: c	 Found: Yipes! Can't decode Morse string!
+HGetamin
+HG
+HIt
+HI
+HJe
+HJ
+HKm
+HK
+HLn
+HL
+HMCInput: -...	Expected: b	 Found: Yipes! Can't decode Morse string!
+HMCInput: -.-.	Expected: c	 Found: Yipes! Can't decode Morse string!
+HM%Input: -..	Expected: d	 Found: null
+HMCInput: ..-.	Expected: f	 Found: Yipes! Can't decode Morse string!
+HM%Input: --.	Expected: g	 Found: null
+HMCInput: ....	Expected: h	 Found: Yipes! Can't decode Morse string!
+HMCInput: .---	Expected: j	 Found: Yipes! Can't decode Morse string!
+HM%Input: -.-	Expected: k	 Found: null
+HMCInput: .-..	Expected: l	 Found: Yipes! Can't decode Morse string!
+HM%Input: ---	Expected: o	 Found: null
+HMCInput: .--.	Expected: p	 Found: Yipes! Can't decode Morse string!
+HMCInput: --.-	Expected: q	 Found: Yipes! Can't decode Morse string!
+HM%Input: .-.	Expected: r	 Found: null
+HM%Input: ...	Expected: s	 Found: null
+HM%Input: ..-	Expected: u	 Found: null
+HMCInput: ...-	Expected: v	 Found: Yipes! Can't decode Morse string!
+HM%Input: .--	Expected: w	 Found: null
+HMCInput: -..-	Expected: x	 Found: Yipes! Can't decode Morse string!
+HMCInput: -.--	Expected: y	 Found: Yipes! Can't decode Morse string!
+HMCInput: --..	Expected: z	 Found: Yipes! Can't decode Morse string!
+HM
+HMCount correct: 0
+HM
+HNa
+HN
+HOi
+HO
